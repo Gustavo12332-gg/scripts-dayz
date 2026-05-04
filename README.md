@@ -14,3 +14,5 @@ O projeto nasceu da necessidade de integrar ferramentas de automação acessíve
 - **Automação Inteligente:** Facilitar o gerenciamento de macros e coordenadas complexas através de uma interface flutuante.
 - **Acessibilidade:** Interface totalmente em Português (PT-BR) para facilitar a configuração em tempo real.
 - **Eficiência de Código:** Scripts limpos e otimizados para evitar gargalos de memória e garantir a máxima estabilidade durante o gameplay.
+
+- no momento atual não tenho lançado atualizaçoes para sequinte versao ela pode apresentar diverso erros estou trabalhando para que a versao futura esteja completa 
